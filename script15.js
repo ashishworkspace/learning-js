@@ -17,5 +17,5 @@ console.log(person.about())
 // Here this refer to global context = Window object
 console.log(this)
 
-//Here this refer to the person object
+//Here this refer to the person object 
 console.log(person.printThis())
